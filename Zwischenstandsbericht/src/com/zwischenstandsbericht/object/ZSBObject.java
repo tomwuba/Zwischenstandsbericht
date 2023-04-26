@@ -1,4 +1,4 @@
 package com.zwischenstandsbericht.object;
-//1
+//2
 public class ZSBObject {
 }
