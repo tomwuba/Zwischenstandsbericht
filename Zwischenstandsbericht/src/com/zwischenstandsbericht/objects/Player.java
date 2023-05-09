@@ -10,7 +10,7 @@ public class Player extends ZSBObject{
     @Override
     void draw(Graphics g) {
         g.setColor(Color.BLUE);
-        g.fillOval(x, y, width, width);
+        g.fillOval(x, y, width, height);
         g.fillRect(x, y + width, width, height - width);
     }
 
